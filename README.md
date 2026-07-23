@@ -1,14 +1,13 @@
-# MRS Client
+# MRS Lumen
 
-MRS Client 是一个本地辅助工具，用于个人数据配置的整理、校验和调试。程序在本机运行，适合用于学习研究、技术验证和个人工作流测试。
+MRS Lumen 是一个本地辅助工具，用于个人数据配置的整理、校验和调试。程序在本机运行，适合用于学习研究、技术验证和个人工作流测试。
 
 ## 下载
 
-请下载对应系统的安装包：
+当前版本：0.1.0
 
-- macOS Apple Silicon：[mrs-client_0.1.0_macos-aarch64.dmg](downloads/mrs-client_0.1.0_macos-aarch64.dmg)
-- macOS Intel：[mrs-client_0.1.0_macos-x64.dmg](downloads/mrs-client_0.1.0_macos-x64.dmg)
-- Windows x64：[mrs-client_0.1.0_windows-x64_setup.exe](downloads/mrs-client_0.1.0_windows-x64_setup.exe)
+- macOS Intel 与 Apple Silicon（Apple Silicon 通过 Rosetta）：[mrs-lumen_0.1.0_macos-x64.dmg](downloads/mrs-lumen_0.1.0_macos-x64.dmg)
+- Windows x64：[mrs-lumen_0.1.0_windows-x64_setup.exe](downloads/mrs-lumen_0.1.0_windows-x64_setup.exe)
 
 ## 使用说明
 
@@ -21,6 +20,7 @@ MRS Client 是一个本地辅助工具，用于个人数据配置的整理、校
 ## 注意事项
 
 - 当前安装包未进行代码签名。macOS 或 Windows 可能出现安全提示，这是未签名测试包的正常现象。
+- 当前 macOS 统一提供 x64 测试包；Intel 原生运行，Apple Silicon 通过 Rosetta 运行。
 - 程序不内置第三方访问凭据，也不提供任何第三方内容。
 - 你输入的配置、凭据和运行结果由你自行管理，请勿在公共设备上保存敏感信息。
 
@@ -35,7 +35,7 @@ MRS Client 是一个本地辅助工具，用于个人数据配置的整理、校
 如果仍然被拦截，可以在终端执行下面命令后再打开。请把路径里的应用名称改成你实际看到的名称：
 
 ```bash
-xattr -dr com.apple.quarantine "/Applications/MRS Client.app"
+xattr -dr com.apple.quarantine "/Applications/MRS Lumen.app"
 ```
 
 ## 使用边界与免责声明
