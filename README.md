@@ -4,13 +4,11 @@ MRS Client 是一个本地辅助工具，用于个人数据配置的整理、校
 
 ## 下载
 
-请到 Releases 页面下载对应系统的安装包：
+请下载对应系统的安装包：
 
-- macOS Apple Silicon：`mrs-client_0.1.0_macos-aarch64.dmg`
-- macOS Intel：`mrs-client_0.1.0_macos-x64.dmg`
-- Windows x64：`mrs-client_0.1.0_windows-x64_setup.exe`
-
-下载地址：[GitHub Releases](https://github.com/taokoplay/mrs-client/releases)
+- macOS Apple Silicon：[mrs-client_0.1.0_macos-aarch64.dmg](downloads/mrs-client_0.1.0_macos-aarch64.dmg)
+- macOS Intel：[mrs-client_0.1.0_macos-x64.dmg](downloads/mrs-client_0.1.0_macos-x64.dmg)
+- Windows x64：[mrs-client_0.1.0_windows-x64_setup.exe](downloads/mrs-client_0.1.0_windows-x64_setup.exe)
 
 ## 使用说明
 
