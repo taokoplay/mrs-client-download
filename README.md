@@ -4,10 +4,10 @@ MRS Lumen 是一个本地辅助工具，用于个人数据配置的整理、校�
 
 ## 下载
 
-当前版本：0.1.0
+当前版本：1.0.0
 
-- macOS Intel 与 Apple Silicon（Apple Silicon 通过 Rosetta）：[mrs-lumen_0.1.0_macos-x64.dmg](downloads/mrs-lumen_0.1.0_macos-x64.dmg)
-- Windows x64：[mrs-lumen_0.1.0_windows-x64_setup.exe](downloads/mrs-lumen_0.1.0_windows-x64_setup.exe)
+- macOS Intel 与 Apple Silicon（Apple Silicon 通过 Rosetta）：[mrs-lumen_1.0.0_macos-x64.dmg](downloads/mrs-lumen_1.0.0_macos-x64.dmg)
+- Windows x64：[mrs-lumen_1.0.0_windows-x64_setup.exe](downloads/mrs-lumen_1.0.0_windows-x64_setup.exe)
 
 ## 使用说明
 
